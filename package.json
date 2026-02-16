@@ -1,0 +1,12 @@
+{
+  "name": "express-fileupload-symlink-overwrite-poc",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.0",
+    "express-fileupload": "1.5.2",
+    "form-data": "^4.0.0"
+  }
+}
